@@ -1,31 +1,28 @@
-# 🙋‍ 2023.2 - Módulo 8: Desenvolvimento de uma IDE para sistema embarcado - Turma 1 - AACD
 
-## 🔍 O problema:
-
-A terapia ocupacional não possuir ainda tanto investimento tecnológico para melhorar a vida de pacientes por meio das tecnologias assistivas. 
+# 🙋‍ 2024.1 - Módulo 1: Jogo Digital - Turma 14 - Meta
 
 
 ## 🎯 O objetivo:
 
-Tapete sensorial para estimular pessoas com leves desordens neurológicas e apoiá-los para que possam apresentar melhor desempenho das Atividades de Vida Diária (Avd’s) e praxias do cotidiano.
+Elaborar um GAME com o objetivo de orientar os colaboradores internos sobre a jornada de contratação de um fornecedor na Meta.
 
 
-## 💻 Desenvolvimento de uma IDE para sistema embarcado: 
+## 💻 Projetos Desenvolvidos: 
 
-- Grupo 1 
-  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo1
+- Grupo 1 - Zoopliers
+  - Link do repositório: https://github.com/InteliProjects/2024-T0014-IN01-G01
 
-- Grupo 2 
-  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo2
+- Grupo 2 - MetaMakers
+  - Link do repositório: https://github.com/InteliProjects/2024-T0014-IN01-G02
 
-- Grupo 3 
-  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo3
+- Grupo 3 - Cometa
+  - Link do repositório: https://github.com/InteliProjects/2024-T0014-IN01-G03
 
-- Grupo 4 
-  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo4
+- Grupo 4 - Metódicos
+  - Link do repositório: https://github.com/InteliProjects/2024-T0014-IN01-G04
 
-- Grupo 5 
-  - Link do repositório: https://github.com/InteliProjects/2023M8T1Inteli-grupo5
+- Grupo 5 - Metamorfose
+  - Link do repositório: https://github.com/InteliProjects/2024-T0014-IN01-G05
 
 
 
