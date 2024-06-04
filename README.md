@@ -1,5 +1,13 @@
 
-# 🙋‍ 2024.1 - Módulo 1: Jogo Digital - Turma 14 - Meta
+<div align="center">
+
+<img src="logometa.png" alt="meta" width="200"/>
+
+</div>
+
+<br>
+
+# 🙋 2024.1 - Módulo 1: Jogo Digital - Turma 14 - Meta
 
 
 ## 🎯 O objetivo:
@@ -23,6 +31,9 @@ Elaborar um GAME com o objetivo de orientar os colaboradores internos sobre a jo
 
 - Grupo 5 - Metamorfose
   - Link do repositório: https://github.com/InteliProjects/2024-T0014-IN01-G05
+
+
+
 
 
 
